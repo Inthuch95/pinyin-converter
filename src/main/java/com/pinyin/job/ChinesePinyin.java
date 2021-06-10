@@ -1,9 +1,9 @@
-package com.omniscien.pinyin.job;
+package com.pinyin.job;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-import com.omniscien.pinyin.converter.PinyinConverter;
+import com.pinyin.converter.PinyinConverter;
 
 public class ChinesePinyin {
 
